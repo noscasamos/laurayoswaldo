@@ -19,6 +19,14 @@ window.sr = ScrollReveal();
 	}); 
 	sr.reveal('.nombres2', {
 		duration: 6000, //tiempo
+		delay:1700,
+		origin: 'bottom', //origen
+		distance: '70px' //distancia
+
+
+	}); 
+		sr.reveal('.nombres3', {
+		duration: 6000, //tiempo
 		delay:0,
 		origin: 'bottom', //origen
 		distance: '70px' //distancia
