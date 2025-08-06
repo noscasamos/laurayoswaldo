@@ -83,10 +83,10 @@ box-shadow: -2px 4px 12px 0px rgba(0,0,0,0.54);
 font-family: "Tangerine", cursive;
   font-weight: 400;
   font-style: normal;
-  margin-top:0px;
+  margin-top: -190px; 
   margin-bottom: 0px;
   color:#fff;
-  font-size: 90px;
+  font-size: 80px;
   z-index: 9999;
  text-shadow: 2px 2px 4px #000000;
 
@@ -94,7 +94,7 @@ font-family: "Tangerine", cursive;
 .and4{
 font-family: 'Arapey', serif; 
   font-style: normal;
-  margin-top:0px;
+  margin-top: -150px;
   margin-bottom: 0px;
   color:#fff;
   font-size: 100px;
@@ -106,10 +106,10 @@ opacity: .3;
 font-family: "Tangerine", cursive;
   font-weight: 400;
   font-style: normal;
-  margin-top:0px;
+  margin-top: -105px; 
   margin-bottom: 0px;
   color:#fff;
-  font-size: 90px;
+  font-size: 80px;
   z-index: 9999;
  text-shadow: 2px 2px 4px #000000;
 
@@ -159,12 +159,34 @@ font-family: "Tangerine", cursive;
 font-family: "Tangerine", cursive;
   font-weight: 400;
   font-style: normal;
-  margin-top:0px;
+  margin-top: -170px; 
   margin-bottom: 0px;
   color:#fff;
-  font-size: 55px;
+  font-size: 70px;
   z-index: 9999;
 
+}
+.nombres2{
+font-family: "Tangerine", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-top:-95px;
+  margin-bottom: 0px;
+  color:#fff;
+  font-size: 70px;
+  z-index: 9999;
+
+}
+.and4{
+font-family: 'Arapey', serif; 
+  font-style: normal;
+  margin-top:-150px;
+  margin-bottom: 0px;
+  color:#fff;
+  font-size: 100px;
+  z-index: 9999;
+ text-shadow: 2px 2px 4px #000000;
+opacity: .3;
 }
 .nuestraBoda{
  font-family: "Cormorant Garamond", serif;
